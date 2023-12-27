@@ -1,0 +1,15 @@
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\Proiect1.exe.config
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\Proiect1.exe
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\Proiect1.pdb
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.csproj.AssemblyReference.cache
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.csproj.SuggestedBindingRedirects.cache
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.Properties.Resources.resources
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.csproj.GenerateResource.cache
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.csproj.CoreCompileInputs.cache
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.exe
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.pdb
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Laboratorul4ex2.Form1.resources
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.AddKeywordForm.resources
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\System.Data.SQLite.dll
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\System.Data.SQLite.xml
+C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\obj\Debug\Proiect1.csproj.CopyComplete

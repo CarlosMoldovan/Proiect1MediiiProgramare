@@ -1,0 +1,12 @@
+﻿    Blocked URL: http://facebook.com/
+    Blocked URL: http://digisport.ro/
+    Blocked URL: http://sport.ro/
+    Blocked URL: http://amazon.com/
+    Blocked URL: http://sport.ro/
+    Blocked URL: http://cfr.ro/
+    Blocked URL: http://sport.ro/
+    Blocked URL: http://fcsb.ro/
+    Blocked URL: http://amazon.com/
+    Native library pre-loader is trying to load native SQLite library "C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\x86\SQLite.Interop.dll"...
+    Native library pre-loader is trying to load native SQLite library "C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\x86\SQLite.Interop.dll"...
+    Native library pre-loader is trying to load native SQLite library "C:\Users\c2476\Desktop\INFORMATICA\Laboratoare\Medii de programare\Proiect1\bin\Debug\x86\SQLite.Interop.dll"...
